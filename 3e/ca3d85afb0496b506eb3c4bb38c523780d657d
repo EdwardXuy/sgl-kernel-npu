@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "3eca3d85afb0496b506eb3c4bb38c523780d657d",
+  "prompts": {},
+  "humans": {
+    "h_8e7342990314cb": {
+      "author": "CI Bot <ci-bot@example.com>"
+    }
+  }
+}
