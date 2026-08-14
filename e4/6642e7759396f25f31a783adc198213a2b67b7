@@ -1,0 +1,38 @@
+scripts/run_kernel_tests.sh
+  s_44e0edd09bb591::t_19bd8a15182044 42
+  s_44e0edd09bb591::t_4de86f7f09ce91 82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "e46642e7759396f25f31a783adc198213a2b67b7",
+  "prompts": {},
+  "humans": {
+    "h_8e7342990314cb": {
+      "author": "CI Bot <ci-bot@example.com>"
+    }
+  },
+  "sessions": {
+    "s_44e0edd09bb591": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a7d9441f1cb3c0c74c1b957",
+        "model": "DeepSeek-V4-Flash-Official"
+      },
+      "human_author": "CI Bot <ci-bot@example.com>",
+      "custom_attributes": {
+        "external_session_id": "6a7d9441f1cb3c0c74c1b957",
+        "dedupe_key": "6a7d9441f1cb3c0c74c1b957:6a7ed2b8f1cb3c0c74c1bde8:afterEdit:244fe477",
+        "tool_type": "builtin",
+        "edit_kind": "file_edit",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_use_id": "6a7ed2b8f1cb3c0c74c1bde8",
+        "session_id": "6a7d9441f1cb3c0c74c1b957",
+        "client_type": "ide",
+        "source_scene": "agent",
+        "operation_id": "6a7ed2b8f1cb3c0c74c1bde8",
+        "tool_id": "icube:applyChatSnapshotPatch"
+      }
+    }
+  }
+}
