@@ -1,0 +1,32 @@
+.github/workflows/pr-test-kernels.yml
+  s_2ae4e382ab8df0::t_c999fd751592ec 137-139,143-144,150-152,157,194-538,542-549
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "d8f8bd5b9df12bd2f8f74b404ff7c9dbe23dcf98",
+  "prompts": {},
+  "sessions": {
+    "s_2ae4e382ab8df0": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8557a2a867689e779b41f7",
+        "model": "DeepSeek-V4-Flash-Official"
+      },
+      "human_author": "Trae CI <trae-ci@local>",
+      "custom_attributes": {
+        "tool_type": "builtin",
+        "tool_use_id": "6a85658aa867689e779b42df",
+        "client_type": "ide",
+        "edit_kind": "file_edit",
+        "operation_id": "6a85658aa867689e779b42df",
+        "dedupe_key": "6a8557a2a867689e779b41f7:6a85658aa867689e779b42df:afterEdit:ade8b579",
+        "runtime_client": "trae-tob-git-ai",
+        "source_scene": "agent",
+        "session_id": "6a8557a2a867689e779b41f7",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "external_session_id": "6a8557a2a867689e779b41f7"
+      }
+    }
+  }
+}
