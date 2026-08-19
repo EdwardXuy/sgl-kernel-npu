@@ -1,0 +1,39 @@
+.github/workflows/daily-test-kernels.yml
+  s_2ae4e382ab8df0::t_528be147052a0b 21
+.github/workflows/pr-test-kernels.yml
+  s_2ae4e382ab8df0::t_c829df2eea21c6 156,213,270,327,384,441,498
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "9d28a528079a0fc1c899a495f80fb3399d602bff",
+  "prompts": {},
+  "humans": {
+    "h_abf2664391e2a8": {
+      "author": "Trae CI <trae-ci@local>"
+    }
+  },
+  "sessions": {
+    "s_2ae4e382ab8df0": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8557a2a867689e779b41f7",
+        "model": "DeepSeek-V4-Flash-Official"
+      },
+      "human_author": "Trae CI <trae-ci@local>",
+      "custom_attributes": {
+        "client_type": "ide",
+        "source_scene": "agent",
+        "tool_type": "builtin",
+        "session_id": "6a8557a2a867689e779b41f7",
+        "dedupe_key": "6a8557a2a867689e779b41f7:6a857a56a867689e779b4354:afterEdit:2c81f70a",
+        "edit_kind": "file_edit",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_use_id": "6a857a56a867689e779b4354",
+        "operation_id": "6a857a56a867689e779b4354",
+        "external_session_id": "6a8557a2a867689e779b41f7"
+      }
+    }
+  }
+}
