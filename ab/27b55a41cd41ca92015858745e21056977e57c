@@ -1,0 +1,40 @@
+scripts/run_kernel_tests.sh
+  s_2ae4e382ab8df0::t_52161c48649fcd 77,79-80
+  s_2ae4e382ab8df0::t_05512c3b188145 165-190
+  s_2ae4e382ab8df0::t_46564c77df079f 96
+  s_2ae4e382ab8df0::t_5d88972d0332c6 44,52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "ab27b55a41cd41ca92015858745e21056977e57c",
+  "prompts": {},
+  "humans": {
+    "h_abf2664391e2a8": {
+      "author": "Trae CI <trae-ci@local>"
+    }
+  },
+  "sessions": {
+    "s_2ae4e382ab8df0": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8557a2a867689e779b41f7",
+        "model": "DeepSeek-V4-Flash-Official"
+      },
+      "human_author": "Trae CI <trae-ci@local>",
+      "custom_attributes": {
+        "source_scene": "agent",
+        "operation_id": "6a869f74a867689e779b448a",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "session_id": "6a8557a2a867689e779b41f7",
+        "client_type": "ide",
+        "tool_type": "builtin",
+        "dedupe_key": "6a8557a2a867689e779b41f7:6a869f74a867689e779b448a:afterEdit:2c52e01a",
+        "external_session_id": "6a8557a2a867689e779b41f7",
+        "tool_use_id": "6a869f74a867689e779b448a",
+        "runtime_client": "trae-tob-git-ai",
+        "edit_kind": "file_edit"
+      }
+    }
+  }
+}
